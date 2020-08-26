@@ -14,10 +14,15 @@ Encontre-me por aqui 🌎
 ![](http://img.shields.io/badge/maickomtutos@gmail.com-silver?logo=gmail&style=for-the-badge)
 ![](http://img.shields.io/badge/@srfrank__-silver?logo=instagram&style=for-the-badge&?link=https://www.instagram.com/srfrank__/)
 
+
 💻 Atualmente trabalho com Flutter
+
 📚 Estudando Clean architecture e TDD
+
 📒 Cursando Sistemas para Internet
+
 ⚽  Apaixonado por futebol
+
 💎  e flertante de UI/UX
 
 Obrigada pela visita!
