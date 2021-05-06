@@ -3,7 +3,7 @@
 
 👨‍💻 Desenvolvedor Fullstack - Freelancer 🏡 Brasileiro 🌎 Pernambuco ✈️ Brasil
 
-Laravel ❤️ Flutter 💙 NodeJs 💚
+Flutter 💙
 
 
 Encontre-me por aqui 🌎
