@@ -1,9 +1,8 @@
-## Olá seja bem vindo!
- <div>
-  <a href="https://github.com/maickom88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maickom88&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maickom88&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Michael Frank and I'm a Flutter and Angular developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Petrolina, Brasil</b>. </p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
